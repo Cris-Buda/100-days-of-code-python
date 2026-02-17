@@ -206,3 +206,5 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+/day_39.py/ciorna.txt
+/day_31.py/.idea/
